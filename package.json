@@ -24,7 +24,7 @@
     "expo-contacts": "~9.1.2",
     "expo-image-picker": "~10.1.4",
     "expo-location": "~14.2.2",
-    "expo-sensors": "~10.1.2",
+    "expo-sensors": "~11.3.0",
     "expo-status-bar": "~1.0.4",
     "firebase": "9.9.1",
     "react": "16.14.0",
