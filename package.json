@@ -18,7 +18,7 @@
     "@react-navigation/native": "^6.0.12",
     "@react-navigation/stack": "^6.2.3",
     "@reduxjs/toolkit": "^1.8.5",
-    "expo": "~46.0.10",
+    "expo": "~46.0.13",
     "expo-app-loading": "^2.1.0",
     "expo-camera": "~12.3.0",
     "expo-image-picker": "~13.3.1",
