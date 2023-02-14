@@ -40,7 +40,7 @@
     "react-native-web": "~0.18.9",
     "react-native-webview": "11.23.1",
     "react-redux": "^8.0.5",
-    "redux": "^4.1.1",
+    "redux": "^4.2.1",
     "redux-persist": "^6.0.0",
     "redux-thunk": "^2.3.0",
     "uuid": "^9.0.0"
