@@ -20,7 +20,7 @@
     "@reduxjs/toolkit": "^1.8.5",
     "expo": "~49.0.9",
     "expo-app-loading": "^2.1.0",
-    "expo-camera": "~12.3.0",
+    "expo-camera": "~13.4.3",
     "expo-image-picker": "~14.3.2",
     "expo-contacts": "~10.3.0",
     "expo-location": "~14.3.0",
