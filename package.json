@@ -22,7 +22,7 @@
     "expo-app-loading": "^2.1.0",
     "expo-camera": "~13.4.3",
     "expo-image-picker": "~14.3.2",
-    "expo-contacts": "~10.3.0",
+    "expo-contacts": "~12.2.0",
     "expo-location": "~14.3.0",
     "expo-sensors": "~12.3.0",
     "expo-status-bar": "~1.6.0",
